@@ -8,6 +8,7 @@ dependencies:
   - numpy
   - pandas
   - requests
+  - jupyterlab
   - scikit-learn
   - pip:
       - streamlit
