@@ -1,0 +1,109 @@
+{
+  "totals": {
+    "google/gemma-3-27b-it": {
+      "input_tokens": 52552,
+      "output_tokens": 3207
+    }
+  },
+  "interactions": [
+    {
+      "ts": "2026-02-24T15:09:25.032051+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 2981,
+      "output_tokens": 125,
+      "filters": {
+        "semester": "kevad",
+        "eap": 3.0,
+        "keel": "eesti keel"
+      }
+    },
+    {
+      "ts": "2026-02-24T15:10:13.924341+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 2843,
+      "output_tokens": 184,
+      "filters": {
+        "semester": "kevad",
+        "eap": null,
+        "keel": "eesti keel"
+      }
+    },
+    {
+      "ts": "2026-02-24T15:10:51.934226+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4835,
+      "output_tokens": 319,
+      "filters": {
+        "semester": "kevad",
+        "eap": null,
+        "keel": "eesti keel"
+      }
+    },
+    {
+      "ts": "2026-02-24T15:11:18.821870+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3289,
+      "output_tokens": 417,
+      "filters": {
+        "semester": "kevad",
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-24T15:11:47.087453+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5718,
+      "output_tokens": 245,
+      "filters": {
+        "semester": "kevad",
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-24T15:12:14.422358+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 10038,
+      "output_tokens": 342,
+      "filters": {
+        "semester": "kevad",
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-24T15:12:57.759660+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 6468,
+      "output_tokens": 615,
+      "filters": {
+        "semester": "kevad",
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-24T15:14:42.216891+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 7459,
+      "output_tokens": 696,
+      "filters": {
+        "semester": "kevad",
+        "eap": 3.0,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-24T15:14:56.162159+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 8921,
+      "output_tokens": 264,
+      "filters": {
+        "semester": "kevad",
+        "eap": 3.0,
+        "keel": null
+      }
+    }
+  ]
+}

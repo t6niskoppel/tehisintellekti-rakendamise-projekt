@@ -2,3 +2,6 @@
 .github/
 yldine_info_agendile.md
 .venv/
+api_key.txt
+/tmp
+/__pycache__
