@@ -1,0 +1,265 @@
+Aeg,Kasutaja päring,Filtrid,Leitud ID-d,Leitud ained,LLM Vastus,Hinnang,Veatüüp
+2026-02-28 19:46:28,"Tahaks leida kursust, kus saab maalida","EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['SVHI.02.024', 'P2VK.04.518', 'FLAJ.05.112', 'MVSF.00.007', 'HTOS.02.241']","['Joonistamine ja maalimine õpetajatöös', 'Joonistamise meistriklass', 'Kunstiajaloo praktika', 'Praktiline orienteerumine', 'Kunstiõpetus esimeses kooliastmes I']","Selge. Arvestades sinu huvi maalida, soovitaksin järgmisi kursusi:
+
+## [Joonistamine ja maalimine õpetajatöös](https://ois2.ut.ee/#/courses/SVHI.02.024/)
+`SVHI.02.024` | 3.0 EAP | Tartu | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, integreeritud bakalaureuse- ja magistriõpe
+
+See kursus sobib, sest käsitleb erinevaid joonistus- ja maalitehnikaid ning pakub võimalust loovtööde teostamiseks. Õpid ka kunstitehnikate juhendamise metoodikat.
+
+---
+
+## [Joonistamise meistriklass](https://ois2.ut.ee/#/courses/P2VK.04.518/)
+`P2VK.04.518` | 5.0 EAP | Viljandi | Eristamata (arv, m.arv, mi) | rakenduskõrgharidusõpe
+
+See kursus on mõeldud praktiliste joonistamisoskuste süvendamiseks erinevate tehnikate abil. See on hea võimalus oma maalimisoskust arendada.
+
+---
+
+Kui otsid veel muid kursuseid või soovid muuta oma eesmärke, anna teada!",👍 Hea,
+2026-02-28 19:51:04,Tahaksin sissejuhatavat kursust neurovõrkude teemal,"EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['ARFS.01.069', 'MVBS.03.006', 'LTAT.02.001', 'SVNC.00.085', 'ARNR.01.031']","['Närviteadus', 'Närviteadus', 'Tehisnärvivõrgud', 'Masinõpe ja närvivõrgud', 'Neuroloogia ja neurokirurgia']","
+Arvestades su soovi saada sissejuhatavat kursust neurovõrkude teemal, soovitaksin järgmisi kursusi:
+
+## [Tehisnärvivõrgud](https://ois2.ut.ee/#/courses/LTAT.02.001/)
+`LTAT.02.001` | 6.0 EAP | Tartu | Eristav (A, B, C, D, E, F, mi) | magistriõpe, doktoriõpe
+
+See kursus annab põhjaliku ülevaate nüüdisaegsetest tehisnärvivõrkudest ja sügava õppe meetoditest, tutvustab teoreetilisi aluseid ja praktilisi rakendusi. See sobib algajatele, kes soovivad põhjalikult teemasse sukelduda.
+
+---
+
+## [Masinõpe ja närvivõrgud](https://ois2.ut.ee/#/courses/SVNC.00.085/)
+`SVNC.00.085` | 3.0 EAP | Narva | Eristamata (arv, m.arv, mi) | rakenduskõrgharidusõpe
+
+See kursus sisaldab sissejuhatust juhendatud ja juhendamata õppesse ning parimate praktikate tutvustamist masinõppes. See võib olla hea valik, kui soovid kiiresti ülevaate saada erinevatest masinõppe meetoditest, sealhulgas närvivõrkudest.
+
+---
+
+Kui sa tahad rohkem keskenduda ainult neurovõrkudele, siis [Tehisnärvivõrgud] on kindlam valik. Kui sooviksid üldisemmat ülevaadet masinõppest, siis [Masinõpe ja närvivõrgud] oleks parem.",👍 Hea,
+2026-02-28 20:05:26,Tahaksin õppida arvutite riistvara kohta,"EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['LOTI.05.022', 'LOTI.05.021', 'LOFY.03.001', 'LOFY.03.012', 'LOFY.03.079']","['Riistvaraprojekt', 'Arvutiriistvara praktikum', 'Arvutiriistvara I', 'Arvuti arhitektuur ja riistvara II', 'Arvuti arhitektuur ja riistvara I']","
+Arvestades su huvi arvutite riistvara õppimiseks, soovitaksin järgmisi kursusi:
+
+## [Arvutiriistvara I](https://ois2.ut.ee/#/courses/LOFY.03.001/)
+`LOFY.03.001` | 3.0 EAP | sügis | Eristav (A, B, C, D, E, F, mi) | bakalaureuseõpe, magistriõpe
+
+See kursus annab ülevaate arvuti arhitektuuri põhiprintsiipidest ning arvuti ehitusest. Õpid tundma personaalarvuti põhilisi komponente ja oskad valida arvutile optimaalseid komponente.
+
+---
+
+## [Arvuti arhitektuur ja riistvara II](https://ois2.ut.ee/#/courses/LOFY.03.012/)
+`LOFY.03.012` | 6.0 EAP | kevad | Eristav (A, B, C, D, E, F, mi) | bakalaureuseõpe, magistriõpe
+
+See kursus käsitleb põhjalikult arvutiarhitektuuri üldprintsiipe, arvuti struktuurelementide tööpõhimõtteid ja riistvaralisi lahendusi. See on jätkuks esimesele kursusele ja annab sügavama arusaama arvuti riistvarast.
+
+---
+
+## [Arvutiriistvara praktikum](https://ois2.ut.ee/#/courses/LOTI.05.021/)
+`LOTI.05.021` | 3.0 EAP | sügis | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, doktoriõpe, rakenduskõrgharidusõpe
+
+See kursus pakub praktilist kogemust personaalarvutite koostamisel, parandamisel ja seadmete konfigureerimisel. See on hea võimalus omandada praktilisi oskusi ja täiendada teoreetilisi teadmisi.
+
+---
+
+Parima tulemuse saamiseks võiks alustada kursusest [Arvutiriistvara I], seejärel [Arvuti arhitektuur ja riistvara II] ja lõpetada [Arvutiriistvara praktikumiga].",👍 Hea,
+2026-02-28 20:05:36,Tahaksin lennata droonidega,"EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['LOTI.05.109', 'LOTI.05.091', 'LTOM.03.034', 'MVSF.00.007', 'LOTI.05.088']","['FPV droonilennu alused', 'Kopterdroonide projekt', 'Mehitamata sõidukite kasutamine maateadustes', 'Praktiline orienteerumine', 'Robootika II']","Arvestades su soovi lennata droonidega, soovitaksin järgmisi kursusi:
+
+## [FPV droonilennu alused](https://ois2.ut.ee/#/courses/LOTI.05.109/)
+`LOTI.05.109` | 2.0 EAP | kevad | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, doktoriõpe, rakenduskõrgharidusõpe, integreeritud bakalaureuse- ja magistriõpe
+
+See kursus annab ülevaate FPV droonidest, tutvustab drooninduse põhitõdesid, ohutusnõudeid ja kohalikke regulatsioone. Õpid drooni ehitust, tööpõhimõtteid, varustuse kasutamist ja hooldust ning harjutad drooni juhtimist simulaatoris ja Tinywhoop drooni lennutamist.
+
+---
+
+## [Kopterdroonide projekt](https://ois2.ut.ee/#/courses/LOTI.05.091/)
+`LOTI.05.091` | 6.0 EAP | sügis | Eristav (A, B, C, D, E, F, mi) | bakalaureuseõpe, magistriõpe, doktoriõpe
+
+See kursus võimaldab sul tegeleda kopterdroonide programmeerimise ja juhtimisega, kasutades arvutinägemist ja kontrollitehnoloogiaid. See on arenenum kursus, mis eeldab juba mõningast eelteadmist droonidest.
+
+---
+
+[FPV droonilennu alused] on hea valik, kui sa alles alustad ja soovid saada põhiteadmised ja oskused droonide lennutamiseks. Kui sul on juba varasem kokkupuude droonidega, siis [Kopterdroonide projekt] pakub väljakutset ja võimalust oma oskusi edasi arendada.",👍 Hea,
+2026-02-28 20:06:27,tahaksin lennukiga lennata,"EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['FLLC.09.003_1', 'LOTI.05.109', 'LOTI.05.091', 'MVSF.00.007', 'HVEE.03.030']","['Eesti keele algkursus III, inglise keele baasil, A1.2 - A2.1', 'FPV droonilennu alused', 'Kopterdroonide projekt', 'Praktiline orienteerumine', 'Praktiline eesti-ungari tõlkekursus']","Vabandust, kontekstis ei ole kursust, mis pakuks lennukiga lendamise õpet. Ma ei saa soovitada ühtegi kursust, mis vastaks sinu soovile. Kas sa soovid, et ma otsin sinule kursusi mõnel muul teemal?",👍 Hea,
+2026-02-28 20:06:32,Tahaksin õppida erinevate protsessorite disaini kohta,"EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['LTAT.05.040', 'LOFY.03.001', 'LTAT.05.029', 'LOTI.05.085', 'LOTI.05.106']","['Disainmõtlemine ja ärimodelleerimine', 'Arvutiriistvara I', 'Loomeprotsess disainmõtlemises', 'Manussüsteemid', 'Tootmis- ja projekteerimisprotsessid']","
+
+Arvestades su huvi protsessorite disaini vastu, soovitaksin järgmist kursust:
+
+## [Arvutiriistvara I](https://ois2.ut.ee/#/courses/LOFY.03.001/)
+`LOFY.03.001` | 3.0 EAP | sügis | Eristav (A, B, C, D, E, F, mi) | bakalaureuseõpe, magistriõpe
+
+See kursus annab ülevaate arvutite arhitektuuri põhiprintsiipidest ning arvutite ehitusest. See hõlmab teemasid, mis on vajalikud protsessorite disaini mõistmiseks, sealhulgas arvuti koostamine ja komponentide valik. See on hea esimene samm, et süvitsi protsessorite disaini olemusse sukelduda.",👍 Hea,
+2026-02-28 20:06:34,Kas saan õppida arvutimänge tegema?,"EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['MTAT.03.263', 'LTAT.02.019', 'LTAT.02.018', 'MTAT.03.315', 'LOTI.05.021']","['Arvutimängude loomine ja disain', 'Videomängude arengulugu', 'Mängumootorid', 'Programmeerimismustrid arvutimängudes', 'Arvutiriistvara praktikum']","
+Jah, saad! Kontekstis on olemas kursus, mis võimaldab sul arvutimänge tegema õppida:
+
+## [Arvutimängude loomine ja disain](https://ois2.ut.ee/#/courses/MTAT.03.263/)
+`MTAT.03.263` | 6.0 EAP | Tartu | Eristav (A, B, C, D, E, F, mi) | bakalaureuseõpe, magistriõpe
+
+See kursus annab sulle vajalikud põhiteadmised arvutimängude loomiseks, sealhulgas mängude kavandamine, disain, psühholoogia, graafika ja turustamine. Kursuse käigus saad ka mängukavandi luua ning koostöös teistega isegi arvutimängu.",👍 Hea,
+2026-02-28 20:06:38,Tahaksin sissejuhatavat kursust neurovõrkude teemal,"EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['ARFS.01.069', 'MVBS.03.006', 'LTAT.02.001', 'SVNC.00.085', 'ARNR.01.031']","['Närviteadus', 'Närviteadus', 'Tehisnärvivõrgud', 'Masinõpe ja närvivõrgud', 'Neuroloogia ja neurokirurgia']","
+Arvestades su soovi saada sissejuhatavat kursust neurovõrkude teemal, soovitaksin järgmisi kursusi:
+
+## [Tehisnärvivõrgud](https://ois2.ut.ee/#/courses/LTAT.02.001/)
+`LTAT.02.001` | 6.0 EAP | Tartu | Eristav (A, B, C, D, E, F, mi) | magistriõpe, doktoriõpe
+
+See kursus annab põhjaliku ülevaate nüüdisaegsetest tehisnärvivõrkudest ja sügava õppe meetoditest, tutvustab teoreetilisi aluseid ja praktilisi rakendusi. See sobib algajatele, kes soovivad põhjalikult teemasse sukelduda.
+
+---
+
+## [Masinõpe ja närvivõrgud](https://ois2.ut.ee/#/courses/SVNC.00.085/)
+`SVNC.00.085` | 3.0 EAP | Narva | Eristamata (arv, m.arv, mi) | rakenduskõrgharidusõpe
+
+See kursus sisaldab sissejuhatust juhendatud ja juhendamata õppesse ning parimate praktikate tutvustamist masinõppes. See võib olla hea valik, kui soovid kiiresti ülevaate saada erinevatest masinõppe meetoditest, sealhulgas närvivõrkudest.
+
+---
+
+Kui sa tahad rohkem keskenduda ainult neurovõrkudele, siis [Tehisnärvivõrgud] on kindlam valik. Kui sooviksid üldisemmat ülevaadet masinõppest, siis [Masinõpe ja närvivõrgud] oleks parem.",👍 Hea,
+2026-02-28 20:06:42,"Soovita mulle kursust, kus saab sporti teha","EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['KKSP.00.026', 'KKSP.00.027', 'KKSB.01.034', 'KKSB.01.036', 'KKSB.01.034_1']","['Spordi terviseks', 'Spordi terviseks II', 'Tervislik liikumisharrastus', 'Tervislik liikumisharrastus', 'Tervislik liikumisharrastus']","
+Arvestades su soovi sporti teha, soovitaksin järgmisi kursusi:
+
+## [Spordi terviseks](https://ois2.ut.ee/#/courses/KKSP.00.026/)
+`KKSP.00.026` | 3.0 EAP | Tartu | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, integreeritud bakalaureuse- ja magistriõpe
+
+See kursus võimaldab sul vabalt valida sobivaid liikumisvorme ja osaleda erinevates spordialades, kujundades kestlikke liikumisharjumusi ning toetades tervist ja heaolu.
+
+---
+
+## [Spordi terviseks II](https://ois2.ut.ee/#/courses/KKSP.00.027/)
+`KKSP.00.027` | 3.0 EAP | Tartu | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, integreeritud bakalaureuse- ja magistriõpe
+
+Sarnaselt esimesele kursusele pakub see võimalust valida endale sobivaid spordialasid ja treeninguid, et edendada tervislikku elustiili.
+
+---
+
+## [Tervislik liikumisharrastus](https://ois2.ut.ee/#/courses/KKSB.01.034/)
+`KKSB.01.034` | 3.0 EAP | Tartu | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, doktoriõpe, integreeritud bakalaureuse- ja magistriõpe
+
+See kursus on veebipõhine ja võimaldab sul oma treeninguid jälgida ja analüüsida, et saavutada positiivset efekti tervisele.",👍 Hea,
+2026-02-28 20:07:50,Mis kursused aitavad mul paremaks juhiks saada?,"EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['SVMJ.03.013', 'LOTI.05.102', 'LOTI.05.062', 'MJRI.02.065', 'SVUH.00.217']","['Juhtimine', 'Investeerimine iseendasse: visioon, karjäär, enesejuhtimine ja edu', 'Juhtimissüsteemid', 'Mida kõike võiksin teada - minu areng', 'Akadeemiline enesejuhtimine']","
+Arvestades su soovi paremaks juhiks saada, soovitaksin järgmisi kursusi:
+
+## [Juhtimine](https://ois2.ut.ee/#/courses/SVMJ.03.013/)
+`SVMJ.03.013` | 2.0 EAP | kevad | Eristamata (arv, m.arv, mi) | doktoriõpe
+
+See kursus aitab omandada ja arendada juhi tööks vajalikke teadmisi ja oskusi, mis võimaldavad mõista ja juhtida meeskondade ja organisatsioonide tegevust.
+
+---
+
+## [Tõhus meeskonnatöö ja konfliktide lahendamine](https://ois2.ut.ee/#/courses/SVUH.01.116/)
+`SVUH.01.116` | 3.0 EAP | sügis | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, doktoriõpe, rakenduskõrgharidusõpe, integreeritud bakalaureuse- ja magistriõpe
+
+See kursus aitab sul paremini mõista meeskondliku töö dünaamikat, konflikte ja nende lahendamise viise, mis on oluline hea juhi jaoks.
+
+---
+
+## [Muutuste juhtimine](https://ois2.ut.ee/#/courses/SVMJ.03.031/)
+`SVMJ.03.031` | 3.0 EAP | kevad | Eristav (A, B, C, D, E, F, mi) | magistriõpe, doktoriõpe
+
+See kursus õpetab, kuidas efektiivselt juhtida muutusi organisatsioonis, mis on oluline oskus tänapäevasele juhile.
+
+---
+
+Kõik need kursused aitavad sul arendada oskusi, mis on vajalikud paremaks juhiks saamiseks. Kui sa soovid keskenduda spetsiifilisematele juhtimisvaldkondadele, anna teada!",👍 Hea,
+2026-02-28 20:08:10,"Kas TÜ-s on kursus ""Tehisintellekt ja õigus""?","EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['OIEO.06.091', 'LTAT.01.003', 'LTAT.02.024', 'P2OG.02.207', 'LTAT.02.039']","['Tehisintellekt ja õigus', 'Tehisintellekt', 'Tehislik ja loomulik mõistus', 'Küberruum, tehnoloogia ja rahvusvaheline õigus', 'Tehisintellekti rakendamise projekt']","
+Jah, TÜ-s on kursus ""Tehisintellekt ja õigus"". 
+
+## [Tehisintellekt ja õigus](https://ois2.ut.ee/#/courses/OIEO.06.091/)
+`OIEO.06.091` | 3.0 EAP | sügis | Eristav (A, B, C, D, E, F, mi) | magistriõpe
+
+Kursus annab ülevaate eetilistest ja õiguslikest väljakutsetest tehisintellekti süsteemide ja (tarkade) robotite kasutamisest kehtivas (Euroopa) õigusnormistikus ning (tulevikus) kehtivatest võimalustest nende tehnoloogiate kasutamist reguleerida.",👍 Hea,
+2026-02-28 20:08:45,"Soovita mulle kursust teemal ""kvantarvutus""","EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['LTFY.04.012', 'MTAT.07.024', 'LOFY.04.041', 'LOFY.04.073', 'LTAT.04.015']","['Kvantarvutuse alused: teooria läbi praktika', 'Kvantkrüptograafia', 'Kvantväljateooria', 'Kvantmehaanika', 'Postkvant krüptograafia']","Arvestades su huvi kvantarvutuse teema vastu, soovitaksin järgmisi kursusi:
+
+## [Kvantarvutuse alused: teooria läbi praktika](https://ois2.ut.ee/#/courses/LTFY.04.012/)
+`LTFY.04.012` | 6.0 EAP | sügis | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe
+
+See kursus annab algteadmised kvantarvutusest läbi ülesannete ja praktilise programmeerimise ning minimaalse kvantmehaanika teooria.
+
+---
+
+## [Kvantkrüptograafia](https://ois2.ut.ee/#/courses/MTAT.07.024/)
+`MTAT.07.024` | 6.0 EAP | kevad | Eristav (A, B, C, D, E, F, mi) | magistriõpe, doktoriõpe
+
+See kursus käsitleb kvantmehaanika efekti kasutamist turvaliste protokollide koostamiseks ja annab sissejuhatuse kvantkrüptograafiasse.
+
+---
+
+[Kvantarvutuse alused: teooria läbi praktika] on hea valik kui sa alles alustad ja soovid põhjaliku ülevaate saada kvantarvutuse teoreetilistest ja praktilistest aspektidest. Kui sind huvitab spetsifiliselt kvantkrüptograafia, siis [Kvantkrüptograafia] on parem valik.",👍 Hea,
+2026-02-28 20:09:12,"Tahan õppida, kuidas teha ilusat graafilist disaini","EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['SVPC.02.006', 'LOTI.05.086', 'MTAT.03.015', 'LTAT.05.031', 'LOOM.02.049']","['Graafiline disain', 'Visuaalprogrammeerimine', 'Arvutigraafika', 'Kasutajakogemus digitoodetes - sõnaline ja visuaalne disain', 'Illustrator']","
+
+Arvestades su soovi õppida graafilist disaini, soovitaksin järgmisi kursusi:
+
+## [Graafiline disain](https://ois2.ut.ee/#/courses/SVPC.02.006/)
+`SVPC.02.006` | 3.0 EAP | kevad | Eristamata (arv, m.arv, mi) | rakenduskõrgharidusõpe
+
+See kursus annab teadmised graafilise disaini põhimõtetest ja nende rakenduslikest aspektidest veebipõhiste või vabavaraliste programmide näitel (pixlr.com, canva.com). Õpid kompositsiooni, värviteooriat, tüpograafiat, pilditöötlust ja vektorgraafikat.
+
+---
+
+Lisaks sellele kursusele, kui sa soovid sügavamaid teadmisi ja oskusi, võiksid vaadata ka muid kursuseid, mis puudutavad pilditöötlust või vektorgraafikat! Kahjuks ei ole mul hetkel nende kohta infot.",👍 Hea,
+2026-02-28 20:12:03,Can you recommend me a course about history?,"EAP:(0.0, 36.0), Sem:—, Keel:—, Hindamis:—, Linn:—, Aste:—, Veeb:—, Eeldusaineteta:False","['HVAJ.03.004', 'HVAJ.03.018', 'FLLC.08.003', 'FLLC.08.005', 'ARTH.02.056']","['Sissejuhatus Eesti ajalukku', 'Ajaloo tuumteemad koolitunnis', 'Hiina ajalugu', 'Jaapani ajalugu', 'Meditsiiniajalugu']","
+Of course! Here are a few history courses available:
+
+## [Introduction to Estonian History](https://ois2.ut.ee/#/courses/HVAJ.03.004/)
+`HVAJ.03.004` | 6.0 EAP | Autumn | Distinguishing (A, B, C, D, E, F, fail) | Bachelor's, Master's, Doctoral, Professional Higher Education, Integrated Bachelor’s and Master’s
+
+This course provides an overview of Estonian history from the end of the ancient times to the end of the 20th century. It's ideal if you want to learn about the political and socio-cultural development of Estonia.
+
+---
+
+## [Core Topics in History Class](https://ois2.ut.ee/#/courses/HVAJ.03.018/)
+`HVAJ.03.018` | 6.0 EAP | Spring | Distinguishing (A, B, C, D, E, F, fail) | Master's
+
+This course focuses on key topics in history for teaching purposes, particularly for grades 7-9. It's suited for those interested in history education.
+
+---
+
+## [Chinese History](https://ois2.ut.ee/#/courses/FLLC.08.003/)
+`FLLC.08.003` | 3.0 EAP | Spring | Not Distinguishing (pass, fail) | Bachelor's, Master's, Doctoral, Integrated Bachelor’s and Master’s
+
+This course offers an overview of Chinese history from its earliest periods to the present day.
+
+---
+
+Which period or region of history interests you most?  If you tell me, I can give you a more tailored recommendation!",👍 Hea,
+2026-02-28 20:14:54,Soovita mulle kunstiga seotud kursusi,"EAP:(0.0, 36.0), Sem:['kevad'], Keel:['inglise keel'], Hindamis:—, Linn:—, Aste:—, Veeb:['veebiõpe'], Eeldusaineteta:True","['HVVK.00.112', 'SVPC.00.048', 'P2VK.05.214', 'LTOM.02.070', 'KKSB.01.036']","['TUNE', 'Rahvusvaheline ärietikett', 'Kultuurikorralduse praktika II', '15 minuti linna planeerimine', 'Tervislik liikumisharrastus']","
+Arvestades su huvi kunsti vastu, soovitaksin järgmisi kursusi:
+
+## [Kunstiajalugu: Euroopa kunst keskajast barokini](https://ois2.ut.ee/#/courses/AHKJ.01.003/)
+`AHKJ.01.003` | 6.0 EAP | sügis | Eristav (A, B, C, D, E, F, mi) | bakalaureuseõpe
+
+See kursus annab põhjaliku ülevaate Euroopa kunstist keskajast barokini, kaasaegse kunstiteaduse meetoditest ja terminoloogiast.
+
+---
+
+## [Kunstiajalugu: modernne ja kaasaegne kunst](https://ois2.ut.ee/#/courses/AHKJ.01.009/)
+`AHKJ.01.009` | 6.0 EAP | kevad | Eristav (A, B, C, D, E, F, mi) | bakalaureuseõpe
+
+See kursus käsitleb 19. sajandi lõpust ja 20. sajandist pärit kunstivoolu ning olulisi kunstnikke.
+
+---
+
+## [Joonistamine ja maalimine õpetajatöös](https://ois2.ut.ee/#/courses/SVHI.02.024/)
+`SVHI.02.024` | 3.0 EAP | Tartu | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, integreeritud bakalaureuse- ja magistriõpe
+
+See kursus käsitleb erinevaid joonistus- ja maalitehnikaid ning pakub võimalust loovtööde teostamiseks.
+
+---
+
+## [TUNE: Traditional Music Beyond Borders, Online Course](https://ois2.ut.ee/#/courses/HVVK.00.112/)
+`HVVK.00.112` | 3.0 EAP | Spring | Non-distinguishing (pass, fail) | Master’s, Professional Higher Education
+
+If you’re interested in the intersection of music and cultural traditions, this course might be for you.
+
+---
+
+Milline kunstisuund või periood sind kõige rohkem paelub? See aitaks mul täpsemalt soovitada!",👎 Halb,LLM hallutsineeris/vastas valesti
+2026-02-28 20:16:16,"Soovita mulle kursusi, kus saan mängida arvutimänge","EAP:(0.0, 36.0), Sem:['kevad'], Keel:['eesti keel'], Hindamis:—, Linn:—, Aste:—, Veeb:['põimõpe'], Eeldusaineteta:True","['SVUH.00.263', 'KKSP.05.309', 'LTAT.03.021', 'LOTI.05.028', 'HVLC.02.005']","['Meediapädevuste mänguline arendamine', 'Sportmängude algõpetus II', 'Loogika arvutiteaduses', 'Mikroprotsessorid', 'Antiikkultuuri ja -keeli puudutavad elektroonilised ressursid']","
+Arvestades su soovi mängida arvutimänge kursuse raames, soovitaksin järgmist:
+
+## [Mängud ja õpe](https://ois2.ut.ee/#/courses/SVUH.01.107/)
+`SVUH.01.107` | 3.0 EAP | kevad | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, doktoriõpe, rakenduskõrgharidusõpe, integreeritud bakalaureuse- ja magistriõpe
+
+See kursus käsitleb mängude kasutamist õppeprotsessis. Kuigi kursuse peamine fookus ei pruugi olla lihtsalt mängimine, siis tõenäoliselt sisaldab see mängude praktilist kasutamist ja analüüsi, mis tähendab võimalust ka mängida.",👎 Halb,Filtrid olid liiga karmid/valed
+2026-02-28 20:18:03,Tahaksin teha joogat,"EAP:(0.0, 36.0), Sem:['sügis'], Keel:['eesti keel'], Hindamis:—, Linn:—, Aste:—, Veeb:['lähiõpe'], Eeldusaineteta:True","['KKSP.00.026', 'MVSF.00.005', 'KKSP.04.102_1', 'SVHI.02.037', 'P2VK.02.057']","['Spordi terviseks', 'Võimlemise algõpetus', 'Sõudmine algajatele', 'Liikumine õppimise toetajana', 'Rütmika I']","
+Arvestades su soovi joogat teha, soovitaksin järgmist kursust:
+
+## [Jooga](https://ois2.ut.ee/#/courses/KKSP.03.004/)
+`KKSP.03.004` | 2.0 EAP | sügis, kevad | Eristamata (arv, m.arv, mi) | bakalaureuseõpe, magistriõpe, integreeritud bakalaureuse- ja magistriõpe
+
+See kursus annab sissejuhatuse joogasse, õpetades erinevaid asanasid (kehapositsioone), pranayamaid (hingamisharjutusi) ja meditatsiooni. See sobib nii algajatele kui ka kogenumatele joogaharrastajatele.",👎 Halb,LLM hallutsineeris/vastas valesti

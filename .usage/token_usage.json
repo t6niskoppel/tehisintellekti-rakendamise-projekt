@@ -1,8 +1,8 @@
 {
   "totals": {
     "google/gemma-3-27b-it": {
-      "input_tokens": 52552,
-      "output_tokens": 3207
+      "input_tokens": 327648,
+      "output_tokens": 21426
     }
   },
   "interactions": [
@@ -103,6 +103,963 @@
         "semester": "kevad",
         "eap": 3.0,
         "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-24T19:06:25.277056+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 2692,
+      "output_tokens": 433,
+      "filters": {
+        "semester": null,
+        "eap": [
+          3
+        ],
+        "keel": [
+          "eesti keel"
+        ]
+      },
+      "filtered_count": 1075,
+      "retrieved_count": 5,
+      "packed_rows": 5,
+      "packed_tokens": 2408,
+      "context_truncated": false,
+      "history_dropped": 0,
+      "retrieval_ms": 171,
+      "llm_ms": 15099,
+      "total_ms": 15288
+    },
+    {
+      "ts": "2026-02-24T19:07:22.370378+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3832,
+      "output_tokens": 403,
+      "filters": {
+        "semester": null,
+        "eap": [
+          3
+        ],
+        "keel": [
+          "eesti keel"
+        ]
+      },
+      "filtered_count": 1075,
+      "retrieved_count": 5,
+      "packed_rows": 5,
+      "packed_tokens": 2485,
+      "context_truncated": false,
+      "history_dropped": 0,
+      "retrieval_ms": 1080,
+      "llm_ms": 12984,
+      "total_ms": 14085
+    },
+    {
+      "ts": "2026-02-24T19:23:07.394358+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3182,
+      "output_tokens": 515,
+      "filters": {
+        "semester": [
+          "sügis"
+        ],
+        "eap": null,
+        "keel": null
+      },
+      "filtered_count": 1565,
+      "retrieved_count": 5,
+      "packed_rows": 5,
+      "packed_tokens": 2907,
+      "context_truncated": false,
+      "history_dropped": 0,
+      "retrieval_ms": 135,
+      "llm_ms": 23094,
+      "total_ms": 23249
+    },
+    {
+      "ts": "2026-02-24T19:27:38.672065+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5749,
+      "output_tokens": 477,
+      "filters": {
+        "semester": [
+          "sügis"
+        ],
+        "eap": null,
+        "keel": null
+      },
+      "filtered_count": 1565,
+      "retrieved_count": 8,
+      "packed_rows": 8,
+      "packed_tokens": 4933,
+      "context_truncated": false,
+      "history_dropped": 0,
+      "retrieval_ms": 180,
+      "llm_ms": 12778,
+      "total_ms": 12983
+    },
+    {
+      "ts": "2026-02-24T19:32:12.695318+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4750,
+      "output_tokens": 691,
+      "filters": {
+        "semester": null,
+        "eap": [
+          6
+        ],
+        "keel": [
+          "eesti keel"
+        ]
+      },
+      "filtered_count": 710,
+      "retrieved_count": 8,
+      "packed_rows": 8,
+      "packed_tokens": 4262,
+      "context_truncated": false,
+      "history_dropped": 0,
+      "retrieval_ms": 5327,
+      "llm_ms": 13205,
+      "total_ms": 18563
+    },
+    {
+      "ts": "2026-02-25T21:18:49.040640+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4382,
+      "output_tokens": 245,
+      "filters": {
+        "semester": [
+          "kevad"
+        ],
+        "eap": [
+          3
+        ],
+        "keel": [
+          "inglise keel"
+        ]
+      }
+    },
+    {
+      "ts": "2026-02-25T21:19:21.648139+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4515,
+      "output_tokens": 157,
+      "filters": {
+        "semester": null,
+        "eap": null,
+        "keel": [
+          "inglise keel"
+        ]
+      }
+    },
+    {
+      "ts": "2026-02-25T21:21:21.774707+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5541,
+      "output_tokens": 200,
+      "filters": {
+        "semester": null,
+        "eap": null,
+        "keel": [
+          "inglise keel"
+        ]
+      }
+    },
+    {
+      "ts": "2026-02-25T21:21:55.959297+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 6296,
+      "output_tokens": 325,
+      "filters": {
+        "semester": null,
+        "eap": null,
+        "keel": [
+          "inglise keel"
+        ]
+      }
+    },
+    {
+      "ts": "2026-02-25T21:22:41.324488+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5910,
+      "output_tokens": 293,
+      "filters": {
+        "semester": null,
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-25T21:23:53.558051+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5755,
+      "output_tokens": 233,
+      "filters": {
+        "semester": null,
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-25T21:24:12.389729+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 6233,
+      "output_tokens": 386,
+      "filters": {
+        "semester": null,
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-25T21:24:39.954192+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 6013,
+      "output_tokens": 485,
+      "filters": {
+        "semester": null,
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-26T14:14:02.510847+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4312,
+      "output_tokens": 567,
+      "filters": {
+        "semester": [
+          "sügis"
+        ],
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-26T14:14:41.112551+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5484,
+      "output_tokens": 370,
+      "filters": {
+        "semester": [
+          "sügis"
+        ],
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-26T14:18:11.668835+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3071,
+      "output_tokens": 481,
+      "filters": {
+        "semester": [
+          "sügis"
+        ],
+        "eap": null,
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-26T14:28:35.719411+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3307,
+      "output_tokens": 353,
+      "filters": {
+        "semester": [
+          "sügis"
+        ],
+        "eap": [
+          3,
+          6
+        ],
+        "keel": null
+      }
+    },
+    {
+      "ts": "2026-02-28T16:09:29.586440+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5151,
+      "output_tokens": 33,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          6.0,
+          6.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T16:21:54.427080+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 94,
+      "output_tokens": 1,
+      "filters": {}
+    },
+    {
+      "ts": "2026-02-28T16:22:10.227204+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 94,
+      "output_tokens": 1,
+      "filters": {}
+    },
+    {
+      "ts": "2026-02-28T16:22:24.359092+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 92,
+      "output_tokens": 1,
+      "filters": {}
+    },
+    {
+      "ts": "2026-02-28T16:22:40.847666+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 99,
+      "output_tokens": 1,
+      "filters": {}
+    },
+    {
+      "ts": "2026-02-28T16:23:07.366940+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 114,
+      "output_tokens": 1,
+      "filters": {}
+    },
+    {
+      "ts": "2026-02-28T16:24:30.313701+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5113,
+      "output_tokens": 34,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          6.0,
+          6.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T16:54:12.490332+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3819,
+      "output_tokens": 341,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          6.0,
+          6.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:07:24.418575+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3732,
+      "output_tokens": 505,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:15:05.319675+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4273,
+      "output_tokens": 453,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:15:41.551368+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3929,
+      "output_tokens": 411,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:25:02.029102+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3962,
+      "output_tokens": 506,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:26:16.130257+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3980,
+      "output_tokens": 520,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:29:01.826808+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4579,
+      "output_tokens": 34,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:29:10.529421+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4632,
+      "output_tokens": 34,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:29:50.521576+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3840,
+      "output_tokens": 894,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:33:02.051240+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4839,
+      "output_tokens": 35,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:33:39.383090+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4734,
+      "output_tokens": 716,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:34:35.869382+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3692,
+      "output_tokens": 462,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:35:17.204516+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5027,
+      "output_tokens": 448,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:41:11.814107+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4121,
+      "output_tokens": 35,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:46:19.616498+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 3620,
+      "output_tokens": 355,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:47:47.625679+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4343,
+      "output_tokens": 465,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:50:33.622005+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 4457,
+      "output_tokens": 462,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T17:52:09.478631+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5133,
+      "output_tokens": 214,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:03:07.600407+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 5407,
+      "output_tokens": 221,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:04:19.003608+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 6267,
+      "output_tokens": 582,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:04:58.247513+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 6762,
+      "output_tokens": 504,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:05:43.487353+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 6280,
+      "output_tokens": 77,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:07:47.075555+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 8426,
+      "output_tokens": 523,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:07:59.203866+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 9490,
+      "output_tokens": 196,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:08:41.665547+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 8021,
+      "output_tokens": 392,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:09:08.313901+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 8395,
+      "output_tokens": 280,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:11:57.915671+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 7875,
+      "output_tokens": 351,
+      "filters": {
+        "semester": null,
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": null,
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": null,
+        "no_prereqs": false
+      }
+    },
+    {
+      "ts": "2026-02-28T18:13:18.919028+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 9424,
+      "output_tokens": 547,
+      "filters": {
+        "semester": [
+          "kevad"
+        ],
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": [
+          "inglise keel"
+        ],
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": [
+          "veebiõpe"
+        ],
+        "no_prereqs": true
+      }
+    },
+    {
+      "ts": "2026-02-28T18:15:42.165268+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 9983,
+      "output_tokens": 229,
+      "filters": {
+        "semester": [
+          "kevad"
+        ],
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": [
+          "eesti keel"
+        ],
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": [
+          "põimõpe"
+        ],
+        "no_prereqs": true
+      }
+    },
+    {
+      "ts": "2026-02-28T18:17:17.164865+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 10650,
+      "output_tokens": 546,
+      "filters": {
+        "semester": [
+          "sügis"
+        ],
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": [
+          "eesti keel"
+        ],
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": [
+          "lähiõpe"
+        ],
+        "no_prereqs": true
+      }
+    },
+    {
+      "ts": "2026-02-28T18:17:26.245318+00:00",
+      "model": "google/gemma-3-27b-it",
+      "input_tokens": 9623,
+      "output_tokens": 195,
+      "filters": {
+        "semester": [
+          "sügis"
+        ],
+        "eap_range": [
+          0.0,
+          36.0
+        ],
+        "keel": [
+          "eesti keel"
+        ],
+        "hindamis": null,
+        "linn": null,
+        "aste": null,
+        "veeb": [
+          "lähiõpe"
+        ],
+        "no_prereqs": true
       }
     }
   ]

@@ -3,5 +3,11 @@
 yldine_info_agendile.md
 .venv/
 api_key.txt
-/tmp
+/näited
 /__pycache__
+__pycache__/
+**/__pycache__/
+*.pyc
+/.copilot-tracking
+.streamlit/secrets.toml
+.usage/

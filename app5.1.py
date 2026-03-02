@@ -124,7 +124,6 @@ def load_embeddings_df() -> pd.DataFrame:
     return pd.read_pickle(EMB_PKL_PATH)
 
 
-@st.cache_data
 def get_merged_df(courses_df: pd.DataFrame, embeddings_df: pd.DataFrame) -> pd.DataFrame:
     return pd.merge(courses_df, embeddings_df, on="unique_ID", how="inner")
 
@@ -142,7 +141,7 @@ def select_filter_options(df: pd.DataFrame) -> Tuple[List[str], List, List[str]]
         {
             int(value) if float(value).is_integer() else float(value)
             for value, count in eap_counts.items()
-            if count >= 50
+            if count >= 100
         }
         | {3, 6}
     )
@@ -210,7 +209,7 @@ def format_context_for_llm(results_df: pd.DataFrame) -> str:
     context_rows = results_df.drop(columns=["embedding", "score"], errors="ignore")
     context_text = context_rows.to_string(index=False)
     # Limit context to max tokens (e.g. 10000)
-    MAX_CONTEXT_TOKENS = 10000
+    MAX_CONTEXT_TOKENS = 15000
     tokens = count_text_tokens(context_text)
     if tokens > MAX_CONTEXT_TOKENS:
         # Truncate context to fit token limit
