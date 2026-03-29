@@ -1,13 +1,35 @@
-/andmed/toorandmed_aasta.csv
-.github/
-yldine_info_agendile.md
+# Environment
+.env
+conf.env
 .venv/
-api_key.txt
-/näited
-/__pycache__
 __pycache__/
 **/__pycache__/
 *.pyc
-/.copilot-tracking
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
 .streamlit/secrets.toml
+
+# Runtime artifacts
+.usage/
+feedback_log.csv
+tagasiside_log.csv
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Raw data (too large for git)
+data/raw/
+
+# Copilot / GitHub agents
+.copilot-tracking/
+.github/
+
+# OS
+.DS_Store
+Thumbs.db
 .usage/

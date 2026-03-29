@@ -1,4 +1,4 @@
-name: oisi_projekt
+name: ut_course_advisor
 channels:
   - conda-forge
   - defaults
@@ -7,12 +7,10 @@ dependencies:
   - pip
   - numpy
   - pandas
-  - requests
-  - jupyterlab
   - scikit-learn
   - pip:
       - streamlit
       - openai
       - sentence-transformers
-      - regex
       - tiktoken
+      - python-dotenv
